@@ -1,0 +1,98 @@
+/* header  */
+nav ul img{
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+
+#one{
+    position: absolute;
+    top: 35px;
+    left: 50px;
+    display: inline;
+    margin-top: 32px;
+    margin-left: 270px;
+    /* border: 2px solid black; */
+    text-align:left;
+}
+
+#one a{
+    text-decoration: none;
+    margin: 25px;
+    color: black;
+    font-weight: 200;
+}
+
+/* contact button  */
+.help{
+    position: absolute;
+    right: 20vh;
+    top: 50px;
+    background-color: #5955b3;
+    color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    font-size: large;
+    font-weight: 500;
+    width: 125px;
+    height: 35px;
+}
+
+.help:hover{
+    background-color: #b2b1dd;
+    color: black;
+}
+
+
+/* right side  */
+.right img{
+    float: right;
+    margin: 0;
+}
+
+/* left side  */
+.left {
+    position: absolute;
+
+}
+
+.left{
+    position: absolute;
+    top: 200px;
+    margin-left: 80px;
+    text-align: left;
+    font-size: 80px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: #3c2e60;
+}
+
+
+
+span{
+    color: #807de0;
+}
+
+.left p{
+    font-size: medium;
+    font-weight: 200;
+    text-align: left;
+}
+/* button  */
+.see{
+    display: block;
+    justify-content: end;
+    background-color: #5955b3;
+    margin-top: 60px;
+    color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    width: 130px;
+    height: 40px;
+    font-size: 15px;
+}
+
+.see:hover{
+    background-color: #b2b1dd;
+    color: black;
+}
